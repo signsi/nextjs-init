@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/datenschutz/page": "app/datenschutz/page.js",
+  "/dienstleistungen/page": "app/dienstleistungen/page.js",
+  "/faq/page": "app/faq/page.js",
+  "/impressum/page": "app/impressum/page.js",
+  "/kostenlose-bewertung/page": "app/kostenlose-bewertung/page.js",
+  "/marktberichte/page": "app/marktberichte/page.js",
+  "/page": "app/page.js",
+  "/regionen/luzern/page": "app/regionen/luzern/page.js",
+  "/regionen/seetal/page": "app/regionen/seetal/page.js",
+  "/ueber-mich/page": "app/ueber-mich/page.js"
+}
